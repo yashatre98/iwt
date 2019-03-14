@@ -14,7 +14,7 @@
         }
     </style>
     <script type="text/javascript">
-        function login() {
+        /*function login() {
             window.open("https://ask.fm/account/discover#", '_blank');
         }
         function ads() {
@@ -22,7 +22,7 @@
         }
         function shiv() {
             window.open("https://www.hindustantimes.com/editorials/shivraj-singh-chouhan-s-back-breaking-orders-are-undemocratic-and-bad-in-law/story-QwN5t90XmPUCwVocOZD4KO.html", '_blank');
-        }
+        }*/
     </script>
 </head>
 <body>
